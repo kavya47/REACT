@@ -1,0 +1,13 @@
+.count-primary{
+  color:blue;
+  font-weight: bold;
+  margin-left: 86px;
+}
+.count-warning{
+  color: red;
+  font-weight: bold;
+  margin-left: 86px;
+}
+.button{
+  margin-left: 86px;
+}
